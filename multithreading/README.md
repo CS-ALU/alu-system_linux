@@ -21,6 +21,3 @@ FILE | DESCRIPTION
 [6. Number to Prime Factors v2](./22-prime_factors.c) | Factorizes a number into a list of prime factors using a thread pool
 
 ----
-
-### Author
-Thomas Graeff
