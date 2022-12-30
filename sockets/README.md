@@ -30,6 +30,3 @@ FILE | DESCRIPTION
 
 ----
 
-### Author
-Thomas Graeff
-
