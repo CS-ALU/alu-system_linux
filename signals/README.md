@@ -1,7 +1,7 @@
 # 0x06. C - Signals
 
 ## About
-Solved tasks from Holberton School's Linux Programming curriculum
+Solved task to test summutive project for Linux Programming
 
 ----
 
